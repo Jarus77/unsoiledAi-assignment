@@ -1,3 +1,5 @@
+arXiv: 1706.03762v7 [cs.CL] 2 Aug 2023
+
 Provided proper attribution is provided, Google hereby grants permission to
 reproduce the tables and figures in this paper solely for use in journalistic or
 scholarly works.
@@ -35,16 +37,8 @@ best models from the literature. We show that the Transformer generalizes well t
 other tasks by applying it successfully to English constituency parsing both with
 large and limited training data.
 
-1706.03762v7 [cs.CL] 2 Aug 2023
-
-lV:
-
-aur.
-
-©
-a
-
 *Equal contribution. Listing order is random. Jakob proposed replacing RNNs with self-attention and started
+
 the effort to evaluate this idea. Ashish, with Illia, designed and implemented the first Transformer models and
 has been crucially involved in every aspect of this work. Noam proposed scaled dot-product attention, multi-head
 attention and the parameter-free position representation and became the other person involved in nearly every
