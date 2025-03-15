@@ -20,6 +20,7 @@ This repository compares two approaches for running OCR on PDF pages:
    pip install -r requirements.txt
    ```
 3. Make sure Tesseract is installed and accessible (e.g., `tesseract --version`).
+4. Download the DILHTWD/documentlayoutsegmentation_YOLOv8_ondoclaynet weight from hugging face [DILHTWD/documentlayoutsegmentation_YOLOv8_ondoclaynet]
 
 ## Usage
 
